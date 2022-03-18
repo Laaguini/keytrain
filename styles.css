@@ -82,11 +82,11 @@ body {
     animation: caretBlink 400ms ease-in 0ms infinite;
     display: none;
 }
-#timer {
+#info {
     color: rgb(190, 190, 190);
     margin-bottom: 1rem;
     width: 100%;
     display: flex;
-    justify-content: end;
+    justify-content: space-between;
     gap: 0.5rem;
 }
